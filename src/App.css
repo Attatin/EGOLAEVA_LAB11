@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.blocks{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+  width: 30%;
+  height: 30%;
+}
+
+.container{
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.main_title{
+  font-size: 30px;
+  text-align: left;
+  margin-bottom: 30px;
+  padding-left: 80px;
+}
+
+img{
+  margin-left: -20px;
+  height: 180%;
+  width: 155%;
+}
+.main_block{
+  display: flex;
+  justify-content: space-between;
+  }
+
+.blocks{
+  margin-left: 30px;
+  width: 25%;
+  
+}
+
+.quantity{
+  margin-left: 80px;
+  margin-top: 0px;
+  height: 30px;
+  width: 100px;
+  
+}
